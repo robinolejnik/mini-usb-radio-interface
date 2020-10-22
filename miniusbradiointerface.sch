@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Mini USB Radio Interface"
+Date "2020-10-22"
+Rev "0.1.0"
+Comp "Robin Olejnik"
 Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment2 "License: MIT"
+Comment3 "www.robinolejnik.de"
+Comment4 "https://github.com/robinolejnik/mini-usb-radio-interface"
 $EndDescr
 $Comp
 L archive:Cmedia_USB_Audio_CM108AH U1
@@ -787,8 +787,8 @@ $Comp
 L Device:D_Schottky D1
 U 1 1 5E7ABF4F
 P 6250 4000
-F 0 "D1" H 6250 3784 50  0000 C CNN
-F 1 "B5819W(BAT46W)" H 6250 3875 50  0000 C CNN
+F 0 "D1" H 6250 3900 50  0000 C CNN
+F 1 "B5819W(BAT46W)" H 6075 4125 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6250 4000 50  0001 C CNN
 F 3 "~" H 6250 4000 50  0001 C CNN
 F 4 "C8598" H 6250 4000 50  0001 C CNN "LCSC"
