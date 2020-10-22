@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Cmedia_USB_Audio:CM108AH U1
+L archive:Cmedia_USB_Audio_CM108AH U1
 U 1 1 5E75E071
 P 5100 3300
 F 0 "U1" H 4350 4750 50  0000 C CNN

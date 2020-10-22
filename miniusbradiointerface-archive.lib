@@ -199,11 +199,11 @@ X D 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# archive_Cmedia_USB_Audio_CM108AH
+# Cmedia_USB_Audio_CM108AH
 #
-DEF archive_Cmedia_USB_Audio_CM108AH U 0 40 Y Y 1 F N
+DEF Cmedia_USB_Audio_CM108AH U 0 40 Y Y 1 F N
 F0 "U" 0 50 50 H V C CNN
-F1 "archive_Cmedia_USB_Audio_CM108AH" 0 -50 50 H V C CNN
+F1 "Cmedia_USB_Audio_CM108AH" 0 -50 50 H V C CNN
 F2 "LQFP-48_7x7mm_P0.5mm" 50 -1050 50 H I C CNN
 F3 "" 50 -950 50 H I C CNN
 DRAW
