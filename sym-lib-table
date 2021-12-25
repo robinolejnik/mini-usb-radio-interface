@@ -1,3 +1,0 @@
-(sym_lib_table
-    (lib (name archive)(type Legacy)(uri "${KIPRJMOD}/miniusbradiointerface-archive.lib")(options "")(descr ""))
-)
